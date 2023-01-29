@@ -1,0 +1,21 @@
+<!--5 Hacer una función que dado un número nos regrese una cadena donde se encuentre escrito en palabras.-->
+@page "/Exercise5"
+<div class="card">
+    <div class="card-header">
+        <h1>Cadena</h1>
+    </div>
+    <div class="card-body">
+        <div>
+            <label>Escriba una palabra:</label>
+            <input placeholder="..." @bind="@cadena" />
+            <button  class="btn btn-success ">Click</button>
+        </div>
+        <div class="card-footer">
+            <p class="input-group-text">@(cadena)</p>
+        </div>
+    </div>
+</div>
+
+@code{
+    string? cadena;
+}

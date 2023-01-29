@@ -1,0 +1,29 @@
+<!--Hacer una función que calcule el factorial de un número.-->
+@page "/Exercise4"
+<div class="card">
+    <div class="card-header">
+        <h1>Factorial</h1>
+    </div>
+    <div class="card-body">
+        <div>
+            <label>Ingrese el digito:</label>
+            <input placeholder="..." @bind="@num1" />
+            <button @onclick="factorial" class="btn btn-success ">Click</button>
+        </div>
+        <div class="card-footer">
+            <p class="input-group-text">El factorial de @(num1) es @(resultado)</p>
+        </div>
+    </div>
+</div>
+
+@code{
+    int num1, fact=1, resultado;
+    void factorial(){
+        fact = 1;
+        for (int i = 1; i <= num1; i++)
+        {
+            fact = fact * i;
+        }
+        resultado = fact;
+    }
+}

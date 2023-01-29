@@ -1,0 +1,28 @@
+@page "/Exercise2"
+<!--Hacer un programa que calcule el resultado de un número elevado a cualquier potencia.-->
+<div class="card">
+    <div class="card-header">
+        <h1>Calculadora de potencia</h1>
+    </div>
+    <div class="card-body">
+        <div class="col-md-3">
+            <label>Ingresa un digito</label>
+            <input placeholder="..." @bind="@num1" />
+             <label>Ingresa la potencia</label>
+            <input placeholder="..." @bind="@num2" />
+            <div>
+                <button @onclick="potencia" class="btn btn-success ">Click</button>
+            </div>
+        </div>
+    </div>
+    <div class="card-footer">
+        <p class="input-group-text">resultado: @(resultado)</p>
+    </div>
+</div>
+
+@code {
+    double num1, num2, resultado;
+    void potencia(){
+        resultado = Math.Pow(num1, num2);
+    }
+}

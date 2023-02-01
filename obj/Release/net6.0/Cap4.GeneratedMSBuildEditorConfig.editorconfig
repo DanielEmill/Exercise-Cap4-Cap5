@@ -8,69 +8,69 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Cap4
 build_property.RootNamespace = Cap4
-build_property.ProjectDir = d:\Universidad\P aplicada\Teoria Aplicada\Tarea 2\Cap4\
+build_property.ProjectDir = D:\Universidad\P aplicada\Teoria Aplicada\Tarea 2\Cap4\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = d:\Universidad\P aplicada\Teoria Aplicada\Tarea 2\Cap4
+build_property.MSBuildProjectDirectory = D:\Universidad\P aplicada\Teoria Aplicada\Tarea 2\Cap4
 build_property._RazorSourceGeneratorDebug = 
 
-[d:/Universidad/P aplicada/Teoria Aplicada/Tarea 2/Cap4/App.razor]
+[D:/Universidad/P aplicada/Teoria Aplicada/Tarea 2/Cap4/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Universidad/P aplicada/Teoria Aplicada/Tarea 2/Cap4/Pages/Capitulo4/Exercise1.razor]
+[D:/Universidad/P aplicada/Teoria Aplicada/Tarea 2/Cap4/Pages/Capitulo4/Exercise1.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FwaXR1bG80XEV4ZXJjaXNlMS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Universidad/P aplicada/Teoria Aplicada/Tarea 2/Cap4/Pages/Capitulo4/Exercise2.razor]
+[D:/Universidad/P aplicada/Teoria Aplicada/Tarea 2/Cap4/Pages/Capitulo4/Exercise2.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FwaXR1bG80XEV4ZXJjaXNlMi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Universidad/P aplicada/Teoria Aplicada/Tarea 2/Cap4/Pages/Capitulo5/Exercise4.razor]
+[D:/Universidad/P aplicada/Teoria Aplicada/Tarea 2/Cap4/Pages/Capitulo5/Exercise4.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FwaXR1bG81XEV4ZXJjaXNlNC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Universidad/P aplicada/Teoria Aplicada/Tarea 2/Cap4/Pages/Capitulo5/Exercise5.razor]
+[D:/Universidad/P aplicada/Teoria Aplicada/Tarea 2/Cap4/Pages/Capitulo5/Exercise5.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FwaXR1bG81XEV4ZXJjaXNlNS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Universidad/P aplicada/Teoria Aplicada/Tarea 2/Cap4/Pages/Counter.razor]
+[D:/Universidad/P aplicada/Teoria Aplicada/Tarea 2/Cap4/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Universidad/P aplicada/Teoria Aplicada/Tarea 2/Cap4/Pages/FetchData.razor]
+[D:/Universidad/P aplicada/Teoria Aplicada/Tarea 2/Cap4/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Universidad/P aplicada/Teoria Aplicada/Tarea 2/Cap4/Pages/Index.razor]
+[D:/Universidad/P aplicada/Teoria Aplicada/Tarea 2/Cap4/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Universidad/P aplicada/Teoria Aplicada/Tarea 2/Cap4/Shared/SurveyPrompt.razor]
+[D:/Universidad/P aplicada/Teoria Aplicada/Tarea 2/Cap4/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Universidad/P aplicada/Teoria Aplicada/Tarea 2/Cap4/_Imports.razor]
+[D:/Universidad/P aplicada/Teoria Aplicada/Tarea 2/Cap4/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Universidad/P aplicada/Teoria Aplicada/Tarea 2/Cap4/Shared/MainLayout.razor]
+[D:/Universidad/P aplicada/Teoria Aplicada/Tarea 2/Cap4/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-0jcrbaklo4
 
-[d:/Universidad/P aplicada/Teoria Aplicada/Tarea 2/Cap4/Shared/NavMenu.razor]
+[D:/Universidad/P aplicada/Teoria Aplicada/Tarea 2/Cap4/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-mjjmz56zy2
 
-[d:/Universidad/P aplicada/Teoria Aplicada/Tarea 2/Cap4/Pages/Error.cshtml]
+[D:/Universidad/P aplicada/Teoria Aplicada/Tarea 2/Cap4/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Universidad/P aplicada/Teoria Aplicada/Tarea 2/Cap4/Pages/_Host.cshtml]
+[D:/Universidad/P aplicada/Teoria Aplicada/Tarea 2/Cap4/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Universidad/P aplicada/Teoria Aplicada/Tarea 2/Cap4/Pages/_Layout.cshtml]
+[D:/Universidad/P aplicada/Teoria Aplicada/Tarea 2/Cap4/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DECG\\Desktop\\Tarea 1 Aplicada\\Tarea 2\\Cap4\\Cap4.csproj": {}
+    "D:\\Universidad\\P aplicada\\Teoria Aplicada\\Tarea 2\\Cap4\\Cap4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DECG\\Desktop\\Tarea 1 Aplicada\\Tarea 2\\Cap4\\Cap4.csproj": {
+    "D:\\Universidad\\P aplicada\\Teoria Aplicada\\Tarea 2\\Cap4\\Cap4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DECG\\Desktop\\Tarea 1 Aplicada\\Tarea 2\\Cap4\\Cap4.csproj",
+        "projectUniqueName": "D:\\Universidad\\P aplicada\\Teoria Aplicada\\Tarea 2\\Cap4\\Cap4.csproj",
         "projectName": "Cap4",
-        "projectPath": "C:\\Users\\DECG\\Desktop\\Tarea 1 Aplicada\\Tarea 2\\Cap4\\Cap4.csproj",
+        "projectPath": "D:\\Universidad\\P aplicada\\Teoria Aplicada\\Tarea 2\\Cap4\\Cap4.csproj",
         "packagesPath": "C:\\Users\\DECG\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DECG\\Desktop\\Tarea 1 Aplicada\\Tarea 2\\Cap4\\obj\\",
+        "outputPath": "D:\\Universidad\\P aplicada\\Teoria Aplicada\\Tarea 2\\Cap4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DECG\\AppData\\Roaming\\NuGet\\NuGet.Config",
